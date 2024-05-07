@@ -1,2 +1,2 @@
 # Weed-O-Phobia
-we are implementing a model based on YOLOv8  to identify the weeds in crops.
+Identifying weeds is a significant challenge for farmers and agriculture in general. Weeds compete with crops for resources like sunlight, water, and nutrients, which can significantly reduce crop yields if left uncontrolled. Additionally, some weeds can release harmful chemicals or host pests that further damage crops.So we are creating a model based on Yolov8 which can easily identify the weed lying in between the crops.
